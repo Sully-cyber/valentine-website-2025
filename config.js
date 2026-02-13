@@ -51,7 +51,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "اوووبااااااا  🎉💝💖💝💓",
-        message: "اححححححبببببببببببببككككككككككككككككك",
+        message: "احححبببببببكككككككككك",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
